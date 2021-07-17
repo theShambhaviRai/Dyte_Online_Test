@@ -60,7 +60,8 @@ Installation
       g. npm install
       h. cd webhooks-microservice-project 
       i. npm install express --save
-      j. npm install mongodb --save  
-      k. npm run dev 
+      j. npm install mongodb --save 
+      k. npm i moleculer-db-adapter-mongo
+      l. npm run dev 
     5. Now, in your browser go to http://localhost:3000/ URL 
     6. To end the demo, go to the terminal and press Ctrl+c twice
